@@ -1,0 +1,11 @@
+Langchain-graph-retriever[all]
+Python-dotenv
+Pyvis
+Networkx
+Langchain_astradb
+Langchain_openai
+Langchain_community
+Boto3
+pypdf
+gliner
+keybert
